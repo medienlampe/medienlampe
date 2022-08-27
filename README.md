@@ -1,5 +1,5 @@
 <div id="intro" align="center">
-  <h1>👋 Hello, I'm Sven. </h1>
+  <h1> 🤘 Grüße! I'm Sven. 🤘 </h1>
   <img src="https://bischoff.photo/storage/cache/images/custom/41241324254-20baebb86f-o-jpg/medium_large.1530481927.jpg" alt="Image of myself" width="400" height="266" /><br/>
 <aside>Image by <a href="https://www.flickr.com/photos/damndirty/41241324254/in/album-72157695906915824/">Florian Ziegler</a> at Beyond Tellerrand 2018 in Düsseldorf</aside>
 <br/><br/>
@@ -23,6 +23,7 @@
 ###### 🌱 I’m interested in ...
 ...always developing further in regards to the agile mindset, nonviolent communication and service leadership<br/>
 ...photography, history, technology and philosophy<br/>
+...music in general, mostly Metal, Rock, Goth and Electronica - [Ghost](https://ghost-official.com/) is one of my all-time favourites<br/>
 ...as much as possible by jumping in too many (and sometimes avoidable) rabbitholes. 🙈
 ###### 💬 Ask me about...
 ...anything, really - I try to be as transparent and open as possible.
