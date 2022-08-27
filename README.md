@@ -20,11 +20,13 @@
 ###### 🔭 I’m currently working on...
 ...the booking step of [ab-in-den-urlaub.de](https://ab-in-den-urlaub.de) as IT Team Lead at [Invia Travel GmbH](https://invia.de)<br/>
 ...several private projects for my [Star Citizen Organization](https://rheinland.space) and myself
+###### ❤️ I love...
+...and am very proud of my amazing partner<br/>
+...photography, history, technology and philosophy<br/>
+...music in general, mostly Metal, Rock, Goth and Electronica and especially [Ghost](https://ghost-official.com/)
 ###### 🌱 I’m interested in ...
 ...always developing further in regards to the agile mindset, nonviolent communication and service leadership<br/>
-...photography, history, technology and philosophy<br/>
-...music in general, mostly Metal, Rock, Goth and Electronica - [Ghost](https://ghost-official.com/) is one of my all-time favourites<br/>
-...as much as possible by jumping in too many (and sometimes avoidable) rabbitholes. 🙈
+...learning as much as possible by jumping in too many (and sometimes avoidable) rabbitholes 🙈
 ###### 💬 Ask me about...
 ...anything, really - I try to be as transparent and open as possible.
 ###### 🙊 Languages...
