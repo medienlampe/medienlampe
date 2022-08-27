@@ -21,8 +21,8 @@
 ...the booking step of [ab-in-den-urlaub.de](https://ab-in-den-urlaub.de) as IT Team Lead at [Invia Travel GmbH](https://invia.de)<br/>
 ...several private projects for my [Star Citizen Organization](https://rheinland.space) and myself
 ###### 🌱 I’m interested in ...
-...always developing further in regards to the agile mindset, nonviolent communication and service leadership
-...photography, history, technology and philosophy
+...always developing further in regards to the agile mindset, nonviolent communication and service leadership<br/>
+...photography, history, technology and philosophy<br/>
 ...as much as possible by jumping in too many (and sometimes avoidable) rabbitholes. 🙈
 ###### 💬 Ask me about...
 ...anything, really - I try to be as transparent and open as possible.
