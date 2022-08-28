@@ -26,6 +26,7 @@
 ...music in general, mostly Metal, Rock, Goth and Electronica and especially [Ghost](https://ghost-official.com/)
 ###### 🌱 I’m interested in ...
 ...always developing further in regards to the agile mindset, nonviolent communication and service leadership<br/>
+...DIY; sewing, making and repearing stuff<br/>
 ...learning as much as possible by jumping in too many (and sometimes avoidable) rabbitholes 🙈
 ###### 💬 Ask me about...
 ...anything, really - I try to be as transparent and open as possible.
