@@ -23,7 +23,7 @@
 ###### ❤️ I love...
 ...and am very proud of my amazing partner<br/>
 ...photography, history, technology and philosophy<br/>
-...music in general, mostly Metal, Rock, Goth and Electronica and especially [Ghost](https://ghost-official.com/)
+...music in general, mostly Metal, Rock, Goth, Electronica and especially [Ghost](https://ghost-official.com/)
 ###### 🌱 I’m interested in ...
 ...always developing further in regards to the agile mindset, nonviolent communication and service leadership<br/>
 ...DIY; sewing, making and repearing stuff<br/>
