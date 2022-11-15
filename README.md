@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/svenbischoff/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/TheTalesOfImmo">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <div id="gh-stats" align="center">
   <img src="https://komarev.com/ghpvc/?username=medienlampe&style=flat-square&color=blue" alt=""/>
@@ -26,7 +23,7 @@
 ...music in general, mostly Metal, Rock, Goth, Electronica and especially [Ghost](https://ghost-official.com/)
 ###### 🌱 I’m interested in ...
 ...always developing further in regards to the agile mindset, nonviolent communication and service leadership<br/>
-...DIY; sewing, making and repearing stuff<br/>
+...DIY; sewing, making and repairing stuff<br/>
 ...learning as much as possible by jumping in too many (and sometimes avoidable) rabbitholes 🙈
 ###### 💬 Ask me about...
 ...anything, really - I try to be as transparent and open as possible.
