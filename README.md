@@ -1,6 +1,6 @@
 <div id="intro" align="center">
   <h1> 🤘 Grüße! I'm Sven. 🤘 </h1>
-  <img src="https://bischoff.photo/storage/cache/images/custom/41241324254-20baebb86f-o-jpg/medium_large.1530481927.jpg" alt="Image of myself" width="400" height="266" /><br/>
+  <img src="https://bischoff.photo/assets/sbischoff.jpeg" alt="Image of myself" width="400" height="266" /><br/>
 <aside>Image by <a href="https://www.flickr.com/photos/damndirty/41241324254/in/album-72157695906915824/">Florian Ziegler</a> at Beyond Tellerrand 2018 in Düsseldorf</aside>
 <br/><br/>
 </div>
