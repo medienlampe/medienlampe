@@ -22,7 +22,7 @@
 ...photography, history, technology and philosophy<br/>
 ...music in general, mostly Metal, Rock, Goth, Electronica and especially [Ghost](https://ghost-official.com/)
 ###### 🌱 I’m interested in ...
-...always developing further in regards to the agile mindset, nonviolent communication and service leadership<br/>
+...always developing further in regards to the agile mindset, nonviolent communication and servant leadership<br/>
 ...DIY; sewing, making and repairing stuff<br/>
 ...learning as much as possible by jumping in too many (and sometimes avoidable) rabbitholes 🙈
 ###### 💬 Ask me about...
