@@ -18,7 +18,6 @@
 ...the booking step of [ab-in-den-urlaub.de](https://ab-in-den-urlaub.de) as IT Team Lead at [Invia Travel GmbH](https://invia.de)<br/>
 ...several private projects for my [Star Citizen Organization](https://rheinland.space) and myself
 ###### ❤️ I love...
-...and am very proud of my amazing partner<br/>
 ...photography, history, technology and philosophy<br/>
 ...music in general, mostly Metal, Rock, Goth, Electronica and especially [Ghost](https://ghost-official.com/), [Aurelio Voltaire](https://voltaire.net/) and [VNV Nation](https://vnvnation.com/)
 ###### 🌱 I’m interested in ...
