@@ -15,7 +15,7 @@
 
 ## 🧾 Facts
 ###### 🔭 I’m currently working on...
-...the Cluster Book (booking step as well as post booking services) of [ab-in-den-urlaub.de](https://ab-in-den-urlaub.de) as Senior Engineering Manager at [Invia Travel Germany GmbH](https://invia.de)<br/>
+...the Cluster Book, responsible to support the amazing people developing the booking step as well as post booking services of [ab-in-den-urlaub.de](https://ab-in-den-urlaub.de) as a Senior Engineering Manager at [Invia Travel Germany GmbH](https://invia.de)<br/>
 ...several private projects for my [Star Citizen Organization](https://rheinland.space) and myself
 ###### ❤️ I love...
 ...photography, history, technology and philosophy<br/>
