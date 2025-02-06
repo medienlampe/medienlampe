@@ -22,7 +22,7 @@ const SvenABischoff = {
   "country":  "Germany",
   "city":     "Leipzig",
   "stack":    {
-                "current":    ["TypeScript", "HTML", "CSS", "Go", Terraform],
+                "current":    ["TypeScript", "HTML", "CSS", "Go", "Terraform"],
                 "historic":   ["Java", "PHP"],
               },
   "interest": ["Music", "Gaming", "Photography", "DIY", "Coding", "Tech"],
