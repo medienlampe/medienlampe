@@ -31,19 +31,19 @@ const SvenABischoff = {
 ```
 
 ###### 🔭 I’m currently working on...
-...the Cluster Book, responsible to support the amazing people developing the booking step as well as post booking services of [ab-in-den-urlaub.de](https://ab-in-den-urlaub.de) as a Senior Engineering Manager at [Invia Travel Germany GmbH](https://invia.de)<br/>
+...the Clusters Book and App, responsible to support the amazing people developing the booking step as well as post booking services of [ab-in-den-urlaub.de](https://ab-in-den-urlaub.de) and its iOS and Android apps as a Senior Engineering Manager at [Invia Travel Germany GmbH](https://invia.de)<br/>
 ...several private projects for my [Star Citizen Organization](https://rheinland.space) and myself
 ###### ❤️ I love...
 ...photography, history, technology and philosophy<br/>
 ...music in general, mostly Metal, Rock, Goth, Electronica and especially [Ghost](https://ghost-official.com/), [Aurelio Voltaire](https://voltaire.net/) and [VNV Nation](https://vnvnation.com/)
 ###### 🌱 I’m interested in ...
-...always developing further in regards to the agile mindset, nonviolent communication and servant leadership<br/>
-...DIY; sewing, making and repairing stuff<br/>
+...always developing further in regards to the agile mindset, nonviolent communication, radical candor and servant leadership<br/>
+...DIY; creating, realizing and repairing stuff<br/>
 ...learning as much as possible by jumping in too many (and sometimes avoidable) rabbitholes 🙈
 ###### 💬 Ask me about...
 ...anything, really - I try to be as transparent and open as possible.
 ###### 🙊 Languages...
-...I speak the most are German and English with a little bit of rather bad French
+...I speak the most are German and English with a little bit of rather bad French and curses in at least ten languages.
 ###### 😄 My pronouns are...
 ...they/them preferably, but he/him and she/her are also absolutely fine
 ###### ⚡ A fun fact about me is...
@@ -51,15 +51,27 @@ const SvenABischoff = {
 
 ## :hammer_and_wrench: Languages and Tools
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zsh/zsh-original.svg" title="ZSH" alt="ZSH" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-original.svg" title="oh my ZSH" alt="oh my ZSH" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain.svg" title="nano" alt="nano" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-plain.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
 
 ## :fire: Stats
