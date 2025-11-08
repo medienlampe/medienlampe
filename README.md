@@ -47,7 +47,7 @@ const SvenABischoff = {
 ###### 😄 My pronouns are...
 ...they/them preferably, but he/him and she/her are also absolutely fine as the concept of gender has little meaning to me
 ###### ⚡ A fun fact about me is...
-...that I own several Geiger counters and am always amazed doing some amateurish Gamma spectrometry
+...that I own several Geiger counters and am always amazed when doing some amateurish Gamma spectrometry
 
 ## :hammer_and_wrench: Languages and Tools
 <div align="center">
