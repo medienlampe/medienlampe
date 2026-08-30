@@ -37,7 +37,7 @@ const SvenABischoff = {
 ...several private projects for my [Star Citizen Organization](https://rheinland.space) and myself
 #### ❤️ I love...
 ...photography, history, technology and philosophy<br/>
-...music in general, mostly Metal, Rock, Goth, Electronica and especially [Ghost](https://ghost-official.com/), [Aurelio Voltaire](https://voltaire.net/) and [VNV Nation](https://vnvnation.com/)
+...music in general, mostly Metal, Rock, Goth, Electronica and especially [Ghost](https://ghost-official.com/), [Kim Dracula](https://www.kimdracula.com/) and [VNV Nation](https://vnvnation.com/)
 #### 🌱 I’m interested in ...
 ...always developing further in regards to the agile mindset, nonviolent communication, radical candor and servant leadership<br/>
 ...DIY; creating, realizing and repairing stuff<br/>
